@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App 1`] = `
+<DocumentFragment>
+  <button>
+    undo
+  </button>
+  <button>
+    redo
+  </button>
+  <input
+    data-testid="in"
+    type="color"
+    value="#3083DC"
+  />
+  <div
+    data-testid="divi"
+    style="background-color: rgb(48, 131, 220); width: 10rem; height: 10rem;"
+  />
+</DocumentFragment>
+`;
